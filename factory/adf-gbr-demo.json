@@ -1,0 +1,9 @@
+{
+	"name": "adf-gbr-demo",
+	"location": "southcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e012c3bf-1514-4848-9481-27f96d8704ac",
+		"tenantId": "1113be34-aed1-4d00-ab4b-cdd02510be91"
+	}
+}
